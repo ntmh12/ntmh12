@@ -49,5 +49,5 @@
 - LinkedIn: [nguyen-thi-minh-huong](https://www.linkedin.com/in/nguyen-thi-minh-huong)  
 - Portfolio: [github.com/ntmh12](https://github.com/ntmh12)
 
-🔗 [Feel free to explore my projects here](your-link.com)  
+🔗 [Feel free to explore my projects here](https://github.com/ntmh12/da-projects)  
 <h3 align="center">Thanks for visiting🤗</h3>
