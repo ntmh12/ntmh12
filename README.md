@@ -32,9 +32,9 @@
 - NoSQL: MongoDB
 
 #### ⚡ Office Productivity
-- 📊 Microsoft Excel, Word, PowerPoint  
-- 📑 Google Sheets, Docs, Slides  
-- Google Analytics 4 (GA4)
+- Microsoft Office: Excel, Word, PowerPoint
+- Google Workspace: Google Sheets, Google Docs, Slides,
+- Web Analytics: GA4
 
 #### 🛠️ Others
 - Visual Studio Code  
