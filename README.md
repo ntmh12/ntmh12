@@ -5,16 +5,14 @@
 
 💁‍♀️ **About Me**  
 🎯 I'm a data-focused professional with a passion for transforming raw data into meaningful customer insights and strategic actions.
-
 📈 With expertise in eCommerce and Sales, I leverage data to understand customer behavior, enhance customer experiences, and support business decisions.
-
 🧠I'm deeply committed to the impact of narrative-driven data storytelling.
 
 ---
 
 📌 **What I Work On**  
-🔎 Customer segmentation & sentiment analysis  
-📊 Interactive dashboards & business reports  
+🔎 Customer journey analysis & behavior segmentation
+📊 Interactive dashboards & business reports
 💡 Delivering insights from large-scale datasets
 
 ---
