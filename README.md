@@ -40,6 +40,7 @@
 - Visual Studio Code  
 - Jupyter Notebook  
 - DBeaver
+- Canva
 
 ---
 
