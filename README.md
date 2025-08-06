@@ -10,13 +10,6 @@
 
 ---
 
-📌 **What I Work On**  
-🔎 Customer journey analysis & behavior segmentation  
-📊 Interactive dashboards & business reports  
-💡 Delivering insights from large-scale datasets
-
----
-
 ### 🧰 My Tech Stack
 
 #### 💻 Query & Programming Languages
@@ -29,7 +22,6 @@
 
 #### 🏢 Databases & Data Platforms
 - SQL-based: MS SQL Server, MySQL, Google BigQuery
-- NoSQL: MongoDB
 
 #### ⚡ Office Productivity
 - Microsoft Office: Excel, Word, PowerPoint
@@ -47,7 +39,5 @@
 ### 📮 Contact Me
 
 - Email: **hannguyen.ntmh@gmail.com**  
-- LinkedIn: [nguyen-thi-minh-huong](https://www.linkedin.com/in/nguyen-thi-minh-huong)
 
-🔗 [Feel free to explore my projects here](https://github.com/ntmh12/da-projects)  
 <h3 align="center">Thanks for visiting🤗</h3>
