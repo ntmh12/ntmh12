@@ -17,7 +17,7 @@
 - Programming: Python
 
 #### 🖌️ Business Intelligence & Visualization
-- Power BI (Desktop & Services)  
+- Power BI  
 - Looker Studio  
 
 #### 🏢 Databases & Data Platforms
@@ -26,7 +26,7 @@
 #### ⚡ Office Productivity
 - Microsoft Office: Excel, Word, PowerPoint
 - Google Workspace: Google Sheets, Google Docs, Slides,
-- Web Analytics: GA4
+- Web Analytics: Google Analytics
 
 #### 🛠️ Others
 - Visual Studio Code  
